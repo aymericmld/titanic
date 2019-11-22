@@ -8,5 +8,3 @@ print(df_test)
 df_train = pd.read_csv("BDD/train.csv", encoding = "utf-8")
 df_train = df_train.set_index('PassengerId')
 print(df_train)
-
-lddlldld
